@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrés Molina</h1>
+<h1 align="center">Me presento 👋, I'm Andrés Molina</h1>
 <h3 align="center">Soy un estudiante apasionado de ingeniería de sistemas con un enfoque dinámico y analítico. Mi interés por la tecnología y la resolución de problemas me impulsa a buscar constantemente nuevas formas de innovar y optimizar sistemas. Comprometido con el aprendizaje continuo, busco aprovechar al máximo cada oportunidad para desarrollar mis habilidades técnicas y blandas. Mi objetivo es contribuir al mundo digital con soluciones creativas y eficientes que impacten positivamente en la sociedad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iandresph&label=Profile%20views&color=0e75b6&style=flat" alt="iandresph" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Sistema de biblioteca**
+- 🔭 Actualmente estoy en el desarrollo de un [Sistema de gestión bibliotecario](https://github.com/IAndresPH/Library-Angular-Java-MongoDB.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
